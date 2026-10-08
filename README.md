@@ -1,6 +1,7 @@
-# PL/SQL GOTO Statements and Functions — UWINGENEYE DIVIN
+# PL/SQL GOTO Statements and Functions
 
-**Student ID:** 20252SEN378  
+**Student ID:** 20252SEN378
+**Student name:** UWINGENEYE DIVIN
 **Course:** Database Development with PL/SQL (INSY 8311)  
 **Scenario:** Library Management Database
 
